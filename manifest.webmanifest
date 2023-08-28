@@ -1,0 +1,30 @@
+{
+  "name": "A Saga do Miqueinha",
+  "short_name": "A Saga do Miqueinha",
+  "id": "com.example.gamename",
+  "description": "Explore os altos e baixos da vida de Miqueinha neste jogo de tabuleiro envolvente. Acompanhe sua jornada enquanto ele enfrenta desafios complexos, desde a falta de compreensão das da verdadeira natureza feminina até falsas acusações de assédio. Guie Miqueinha através do tabuleiro da vida, tomando decisões estratégicas para ajudá-lo a superar obstáculos, não caindo nas armadilhas femininas, discernir entre manipulação e empatia. Descubra os segredos da natureza feminina neste emocionante jogo de descoberta pessoa",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "android73.png",
+        "sizes": "48x48"
+      },{
+        "src": "android72.png",
+        "sizes": "72x72"
+      },{
+        "src": "android96.png",
+        "sizes": "96x96"
+      },{
+        "src": "android144.png",
+        "sizes": "144x144"
+      },{
+        "src": "android192.png",
+        "sizes": "192x192"
+      },{
+        "src": "icone jogo.png",
+        "sizes": "512x512"
+      }]
+}
